@@ -9,3 +9,6 @@ C:\Users\Adrian\Documents\xxx87\CPA\CPA\obj\Debug\CPA.pdb
 C:\Users\Ciprian\Desktop\project\xxx87\CPA\CPA\bin\Debug\CPA.exe.config
 C:\Users\Ciprian\Desktop\project\xxx87\CPA\CPA\obj\Debug\CPA.exe
 C:\Users\Ciprian\Desktop\project\xxx87\CPA\CPA\obj\Debug\CPA.pdb
+C:\Users\Cristi\Desktop\EESTEC2\CPA\CPA\bin\Debug\CPA.exe.config
+C:\Users\Cristi\Desktop\EESTEC2\CPA\CPA\obj\Debug\CPA.exe
+C:\Users\Cristi\Desktop\EESTEC2\CPA\CPA\obj\Debug\CPA.pdb
