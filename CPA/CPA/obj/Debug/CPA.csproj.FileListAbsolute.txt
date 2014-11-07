@@ -24,3 +24,10 @@ C:\Users\Ciprian\Documents\estec\xxx87\CPA\CPA\obj\Debug\CPA.Calendar.resources
 C:\Users\Ciprian\Documents\estec\xxx87\CPA\CPA\obj\Debug\CPA.LoginForm.resources
 C:\Users\Ciprian\Documents\estec\xxx87\CPA\CPA\obj\Debug\CPA.Properties.Resources.resources
 C:\Users\Ciprian\Documents\estec\xxx87\CPA\CPA\obj\Debug\CPA.csproj.GenerateResource.Cache
+C:\Users\Cristi\Desktop\EESTEC2\CPA\CPA\bin\Debug\CPA.exe
+C:\Users\Cristi\Desktop\EESTEC2\CPA\CPA\bin\Debug\CPA.pdb
+C:\Users\Cristi\Desktop\EESTEC2\CPA\CPA\obj\Debug\CPA.csprojResolveAssemblyReference.cache
+C:\Users\Cristi\Desktop\EESTEC2\CPA\CPA\obj\Debug\CPA.Calendar.resources
+C:\Users\Cristi\Desktop\EESTEC2\CPA\CPA\obj\Debug\CPA.LoginForm.resources
+C:\Users\Cristi\Desktop\EESTEC2\CPA\CPA\obj\Debug\CPA.Properties.Resources.resources
+C:\Users\Cristi\Desktop\EESTEC2\CPA\CPA\obj\Debug\CPA.csproj.GenerateResource.Cache
