@@ -14,3 +14,13 @@ C:\Users\Cristi\Desktop\EESTEC2\CPA\CPA\obj\Debug\CPA.exe
 C:\Users\Cristi\Desktop\EESTEC2\CPA\CPA\obj\Debug\CPA.pdb
 C:\Users\Adrian\Documents\xxx87\CPA\CPA\obj\Debug\CPA.Calendar.resources
 C:\Users\Adrian\Documents\xxx87\CPA\CPA\obj\Debug\CPA.LoginForm.resources
+C:\Users\Ciprian\Documents\estec\xxx87\CPA\CPA\bin\Debug\CPA.exe.config
+C:\Users\Ciprian\Documents\estec\xxx87\CPA\CPA\obj\Debug\CPA.exe
+C:\Users\Ciprian\Documents\estec\xxx87\CPA\CPA\obj\Debug\CPA.pdb
+C:\Users\Ciprian\Documents\estec\xxx87\CPA\CPA\bin\Debug\CPA.exe
+C:\Users\Ciprian\Documents\estec\xxx87\CPA\CPA\bin\Debug\CPA.pdb
+C:\Users\Ciprian\Documents\estec\xxx87\CPA\CPA\obj\Debug\CPA.csprojResolveAssemblyReference.cache
+C:\Users\Ciprian\Documents\estec\xxx87\CPA\CPA\obj\Debug\CPA.Calendar.resources
+C:\Users\Ciprian\Documents\estec\xxx87\CPA\CPA\obj\Debug\CPA.LoginForm.resources
+C:\Users\Ciprian\Documents\estec\xxx87\CPA\CPA\obj\Debug\CPA.Properties.Resources.resources
+C:\Users\Ciprian\Documents\estec\xxx87\CPA\CPA\obj\Debug\CPA.csproj.GenerateResource.Cache
